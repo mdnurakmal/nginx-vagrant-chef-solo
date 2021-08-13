@@ -1,0 +1,3 @@
+name 'web'
+
+depends 'nginx'
