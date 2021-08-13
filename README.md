@@ -48,7 +48,7 @@ vagrant destroy
 
 # Learning Points
 * Chefdk vs chef-workstaion
-* Open issue - Open issue - https://github.com/hashicorp/vagrant/issues/12337
+* Open issue - https://github.com/hashicorp/vagrant/issues/12337
 
 # References
 * https://docs.chef.io/windows/
